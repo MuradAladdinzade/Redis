@@ -46,6 +46,6 @@ Before you begin, ensure you have the following:
 
 
 ## Some images for explanation:
-![Monitoring the RedisDB](MONITOR.png)
+![Monitoring the RedisDB](MONITOR.PNG)
 
 
