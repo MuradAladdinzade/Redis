@@ -59,6 +59,7 @@ Before you begin, ensure you have the following:
 ![get user info](get_user_info.PNG)
 
 *send message*
+### User need to identify himself/herself inorder to send message.
 ![send message](send message.PNG)
 
 
