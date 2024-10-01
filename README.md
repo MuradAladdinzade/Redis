@@ -48,18 +48,26 @@ Before you begin, ensure you have the following:
 ## Some images for explanation:
 *Monitoring*
 ![Monitoring the RedisDB](MONITOR.PNG)
+
 *Listen*
 ![Listen](listen_channel.PNG)
+
 *fun fact*
 ![fun_fact](fun_fact.PNG)
+
 *get user info*
-![](get_user_info.PNG)
+![get user info](get_user_info.PNG)
+
 *send message*
-![](send message.PNG)
+![send message](send message.PNG)
+
+
 *user identification*
-![](user_identification.PNG)
+![user_identification](user_identification.PNG)
+
+
 *Who am I*
-![](whoami.PNG)
+![whoami](whoami.PNG)
 
 
 
