@@ -60,7 +60,7 @@ Before you begin, ensure you have the following:
 
 *send message*
 ### User need to identify himself/herself inorder to send message.
-![send message](send message.PNG)
+![send message](send_message.PNG)
 
 
 *user identification*
